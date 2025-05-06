@@ -25,7 +25,7 @@ Hewan (superclass)
 ├── Sapi
 │ └── SapiPerah
 └── Ayam
-└── AyamPetelur
+└── AyamPedaging
 
 ## Fitur Program
 - Menyimpan data hewan ternak seperti sapi perah dan ayam petelur.
