@@ -65,5 +65,16 @@ Program ini mengimplementasikan konsep OOP Java untuk sistem manajemen peternaka
 4. **Array/Collection**:
    - Menggunakan ArrayList untuk menyimpan data hewan
 
-## Screenshot Output
-![alt text](image.png)
+## Output Program
+Tambah Hewan :
+![image](https://github.com/user-attachments/assets/c535b290-2bd6-4c65-b11f-45e8aa7749e3)
+Menampilkan Semua Data Hewan :
+![image](https://github.com/user-attachments/assets/e27e996c-de22-406c-b0be-4b0dbe504ac0)
+Cari Hewan :
+![image](https://github.com/user-attachments/assets/30f129e5-191e-4e86-bcf7-1fa06fd053b8)
+Keluar :
+![image](https://github.com/user-attachments/assets/237fca61-d905-46fc-9ac0-11e2f888a429)
+
+
+
+
