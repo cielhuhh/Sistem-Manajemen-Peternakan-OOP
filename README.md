@@ -57,7 +57,7 @@ Hewan (superclass)
 
 Program ini mengimplementasikan konsep OOP Java untuk sistem manajemen peternakan.
 
-## Konsep OOP yang Digunakan:
+## 💡 Konsep OOP yang Digunakan:
 1. **Class & Object**: 
    - Class: Hewan, Ayam, Sapi, Peternakan
    - Object: Instance dari class-class tersebut
@@ -73,7 +73,7 @@ Program ini mengimplementasikan konsep OOP Java untuk sistem manajemen peternaka
 4. **Array/Collection**:
    - Menggunakan ArrayList untuk menyimpan data hewan
 
-## Output Program
+## 🖥️ Output Program
 Tambah Hewan :
 
 
