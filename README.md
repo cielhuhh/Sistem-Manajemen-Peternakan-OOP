@@ -1,4 +1,4 @@
-# Sistem Manajemen Peternakan 🐄🐔
+# 🐄🐔 Sistem Manajemen Peternakan
 
 **Nama:** Bryan Alberta Hildan Pradana  
 **Kelas:** 4ITA1  
@@ -9,13 +9,13 @@
 
 ## 📌 Deskripsi
 
-Program ini dibuat untuk memenuhi tugas Ujian Tengah Semester (UTS) mata kuliah **Pemrograman Berorientasi Objek**. Studi kasus yang digunakan adalah *Sistem Manajemen Peternakan*, dengan penerapan prinsip-prinsip OOP seperti:
+Program ini dibuat untuk memenuhi tugas **Ujian Tengah Semester (UTS)** mata kuliah *Pemrograman Berorientasi Objek*. Studi kasus yang digunakan adalah *Sistem Manajemen Peternakan* dengan menerapkan prinsip-prinsip OOP berikut:
 
 - ✅ Class & Object  
 - ✅ Encapsulation  
 - ✅ Inheritance (hingga 2 tingkat)  
 - ✅ Polymorphism (method overriding)  
-- ✅ Array untuk menyimpan objek
+- ✅ ArrayList sebagai struktur data
 
 ---
 
