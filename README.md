@@ -33,18 +33,23 @@ Hewan (superclass)
 - Menggunakan pewarisan hingga dua tingkat.
 - Menunjukkan konsep polymorphism saat iterasi array objek.
 
-## Cara Menjalankan Program
+## ▶️ Cara Menjalankan Program
 1. Pastikan semua file `.java` sudah disimpan dalam satu folder:
    - `Hewan.java`
    - `Sapi.java`
    - `SapiPerah.java`
    - `Ayam.java`
-   - `AyamPetelur.java`
+   - `AyamPedaging.java`
    - `Peternakan.java`
 
 2. Kompilasi semua file:
+   
+1. Buka terminal di folder `src/`
+2. Jalankan perintah berikut:
    ```bash
-   javac *.java
+   javac Peternakan.java
+   java Peternakan
+
    # Sistem Manajemen Peternakan OOP
 
 Program ini mengimplementasikan konsep OOP Java untuk sistem manajemen peternakan.
