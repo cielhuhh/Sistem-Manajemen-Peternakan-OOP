@@ -73,6 +73,8 @@ Tambah Hewan :
 ![image](https://github.com/user-attachments/assets/c535b290-2bd6-4c65-b11f-45e8aa7749e3)
 Menampilkan Semua Data Hewan :
 
+
+
 ![image](https://github.com/user-attachments/assets/e27e996c-de22-406c-b0be-4b0dbe504ac0)
 
 
