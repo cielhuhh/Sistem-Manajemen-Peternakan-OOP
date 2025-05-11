@@ -22,19 +22,25 @@ Program ini dibuat untuk memenuhi tugas Ujian Tengah Semester (UTS) mata kuliah 
 ## 🧱 Struktur Kelas
 
 Hewan (superclass)
+
 ├── Sapi
+
 │ └── SapiPerah
+
 └── Ayam
+
 └── AyamPedaging
 
-## Fitur Program
-- Menyimpan data hewan ternak seperti sapi perah dan ayam petelur.
-- Menampilkan informasi hewan beserta suara khasnya.
-- Menggunakan pewarisan hingga dua tingkat.
-- Menunjukkan konsep polymorphism saat iterasi array objek.
+## ⚙️ Fitur Program
+
+- Menyimpan data hewan ternak (sapi perah dan ayam pedaging).
+- Menampilkan informasi hewan dan suara khasnya.
+- Pewarisan hingga 2 tingkat (turunan cucu).
+- Penerapan polymorphism saat iterasi array objek.
 
 ## ▶️ Cara Menjalankan Program
-1. Pastikan semua file `.java` sudah disimpan dalam satu folder:
+
+1. Pastikan semua file `.java` berada dalam satu folder:
    - `Hewan.java`
    - `Sapi.java`
    - `SapiPerah.java`
@@ -42,10 +48,7 @@ Hewan (superclass)
    - `AyamPedaging.java`
    - `Peternakan.java`
 
-2. Kompilasi semua file:
-   
-1. Buka terminal di folder `src/`
-2. Jalankan perintah berikut:
+2. Buka terminal di folder tersebut, lalu jalankan:
    ```bash
    javac Peternakan.java
    java Peternakan
